@@ -14,6 +14,6 @@ public class Buzz {
 	}
 	
 	public static void main(String[] args) {
-		buzzNumber(58);
+		buzzNumber(56);
 	}
 }
